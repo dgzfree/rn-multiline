@@ -2,7 +2,7 @@
 
 install
 --------
-npm i dgz-rn-multiline
+npm i multiline-dugz
 
 ------
 base usage
